@@ -1,2 +1,3 @@
 # apana-collage-demo
-this is our first file
+this is our first file 
+author-shakir
